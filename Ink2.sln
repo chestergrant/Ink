@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ink2", "Ink2\Ink2.csproj", "{8D544C32-651A-48DB-8B5E-03D358430332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D544C32-651A-48DB-8B5E-03D358430332}.Debug|x86.ActiveCfg = Debug|x86
+		{8D544C32-651A-48DB-8B5E-03D358430332}.Debug|x86.Build.0 = Debug|x86
+		{8D544C32-651A-48DB-8B5E-03D358430332}.Release|x86.ActiveCfg = Release|x86
+		{8D544C32-651A-48DB-8B5E-03D358430332}.Release|x86.Build.0 = Release|x86
+		{723E6DA0-90B7-4430-8C67-DFAB5FB61791}.Debug|x86.ActiveCfg = Debug|x86
+		{723E6DA0-90B7-4430-8C67-DFAB5FB61791}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

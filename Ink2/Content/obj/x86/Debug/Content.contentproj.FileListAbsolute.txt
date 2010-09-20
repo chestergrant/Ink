@@ -1,0 +1,4 @@
+h:\Private\Visual Studio 2008\Projects\Ink2\Ink2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\chegra\Desktop\Ink2\Ink2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Ink2\Ink2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Ink2\Ink2\Content\obj\x86\Debug\ResolveAssemblyReference.cache
